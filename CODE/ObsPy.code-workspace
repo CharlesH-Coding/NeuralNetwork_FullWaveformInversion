@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorCustomizations": {
+			"activityBar.background": "#5B1107",
+			"titleBar.activeBackground": "#80180A",
+			"titleBar.activeForeground": "#FFFCFB"
+		},
+		"jupyter.jupyterServerType": "local"
+	}
+}
